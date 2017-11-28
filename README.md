@@ -1,2 +1,11 @@
 # CodeView
 CodeView 2017.11.28
+## 11月份我在做什么？
+- 1.学习后端语言（PHP）
+  - 1）php语言基础
+  - 2）MySQL的CRUD操作
+  - 3）利用php和MySQL完成了一个学生信息管理系统。
+- 2.学习前端语言（HTML5）
+  - 1）HTML
+  - 2）CSS
+  - 3）JavaScript
