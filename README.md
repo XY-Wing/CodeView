@@ -279,7 +279,7 @@ PrimaryStudent.prototype.getGrade = function () {
 ![image](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4018913711,2747605690&fm=111&gp=0.jpg)
 
 ### class继承
-受够了js中奇葩的类构造与继承，EMCScript6标准中为coder们带来了福音，全新的class继承，简单方便，实属炎炎夏日中林荫道。
+受够了js中奇葩的类构造与继承，ECMAScript 6标准中为coder们带来了福音，全新的class继承，简单方便，实属炎炎夏日中林荫道。
 
 新的关键字class从ES6开始正式被引入到JavaScript中。class的目的就是让定义类更简单。
 
